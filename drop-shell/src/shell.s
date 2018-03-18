@@ -9,4 +9,4 @@ _start:
 	int	0x80
 
 section .data
-	msg	db	"/bin/sh"
+	msg	db	"/bin/bash"
